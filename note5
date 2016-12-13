@@ -1,0 +1,4 @@
+总结
+场景1:当你乱改了工作区某个文件的内容，想直接丢弃工作区的修改时，使用命令git checkout -- file
+场景2:当你不但乱改了工作区某个文件的内容，还添加到了暂存区，想丢弃修改时，使用命令git reset HEAD file ,然后执行场景1
+场景3:当你提交了不合适的修改到版本库时，想要撤销本次提交，参考版本回退，git reset --hard HEAD^/commit_id  或者git reflog 查看commit_id
