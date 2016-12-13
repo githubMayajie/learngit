@@ -1,0 +1,2 @@
+可以通过Git rm用于删除一个文件，git checkout -- file 可以从版本库中下载该文件
+
