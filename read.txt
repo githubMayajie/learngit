@@ -25,3 +25,7 @@ git has a mutable index called stage.
 
 //2016年12月13日18:27:12
 git traces changes
+
+
+//2016年12月13日18:28:48
+this tracks change of files
