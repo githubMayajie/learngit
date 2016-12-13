@@ -1,0 +1,2 @@
+秀姑bug时，我们会通过创建bug分支进行修复
+当手头工作没有完成时，先把工作现场 git stash 一下，然后去修复bug ,再git stash pop回到工作现场

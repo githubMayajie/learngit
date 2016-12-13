@@ -45,3 +45,5 @@ add a brach manager
 
 //2016年12月13日20:35:02
 add a issue-101 bug
+//2016年12月13日20:32:44
+add a brach manager
