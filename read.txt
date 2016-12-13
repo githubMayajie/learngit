@@ -10,3 +10,10 @@ by maxll
 //2016年12月13日18:00:41
 git is a distributed version control system
 git is free software
+
+
+
+
+//2016年12月13日18:07:00
+git is a distributed version control system
+git is free sofrware distruibued under the GPL
