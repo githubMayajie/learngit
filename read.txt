@@ -21,3 +21,7 @@ git is free sofrware distruibued under the GPL
 
 //2016年12月13日18:21:24
 git has a mutable index called stage.
+
+
+//2016年12月13日18:27:12
+git traces changes
