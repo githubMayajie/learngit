@@ -35,6 +35,5 @@ this tracks change of files
 Creating a new branch is quick
 
 
-//2016年12月13日20:17:08
-Creating a new branch is quick & simple
-
+//2016年12月13日20:15:05
+Creating a new branch is quick and simple.
