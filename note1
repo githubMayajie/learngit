@@ -1,0 +1,5 @@
+初始化一个GIT仓库，使用 git init
+
+添加文件到GIT仓库，分为两部
+1）git add [file,...>
+2) git commit -m "comment"
