@@ -3,3 +3,23 @@
 
 此后，每次提交后，只要有必要，就可以使用git push origin master
 
+大致流程是：
+
+    1、在github上创建项目
+
+    2、使用git clone https://github.com/xxxxxxx/xxxxx.git克隆到本地
+
+    3、编辑项目
+
+    4、git add . （将改动添加到暂存区）
+
+    5、git commit -m "提交说明"
+
+    6、git push origin master 将本地更改推送到远程master分支。
+
+    这样你就完成了向远程仓库的推送。 
+
+文／继续海阔天空（简书作者）
+原文链接：http://www.jianshu.com/p/8d26730386f3
+著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。
+如何解决failed to push some refs to git一般是新建的项目中有README等文件，需要先使用命令git pull --rebase origin master来合并然后上传即可
